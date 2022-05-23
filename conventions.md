@@ -1,0 +1,1 @@
+The ml folder contains files prepared for processing by machine learning tools. The difference is only in file `jna011` where `\var{}` tags with their contents were removed. No other tags have been used there. All of them can be found with reges `\\var\{[^\{]*\}`. Also all texts `\[.*\]` have been removed apart from pabe numbers [001]-[010].
